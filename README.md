@@ -19,13 +19,13 @@ A smart farming assistant that provides personalized crop recommendations based 
 
 ## 📸 Screenshots
 ###                                                         Home Page
-![Homepage](https://github.com/yourusername/AgriTech-Advisor/blob/main/screenshots/home.png)
+![Homepage](https://github.com/Sanjai-K-learner/Crop-Recommendation-System/blob/main/pages/HomePage.PNG)
 ###                                                         Input Page
-![Input Page](https://github.com/yourusername/AgriTech-Advisor/blob/main/screenshots/input.png)
-###                                                         Recommendations Page
-![Recommendations](https://github.com/yourusername/AgriTech-Advisor/blob/main/screenshots/recommendations.png)
+![Input Page](https://github.com/Sanjai-K-learner/Crop-Recommendation-System/blob/main/pages/InputPage.PNG)
+###                                                         Suggestion Page
+![Suggestion](https://github.com/Sanjai-K-learner/Crop-Recommendation-System/blob/main/pages/SuggestionPage.PNG)
 ###                                                         Budget Page
-![Budget](https://github.com/yourusername/AgriTech-Advisor/blob/main/screenshots/budget.png)
+![Budget](https://github.com/Sanjai-K-learner/Crop-Recommendation-System/blob/main/pages/BudgetPage.PNG)
 
 ## 🏁 Getting Started
 
