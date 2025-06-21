@@ -52,7 +52,7 @@ A smart farming assistant that provides personalized crop recommendations based 
 
 ### Project Structure
 
-AgriTech-Advisor/
+Crop Recommendation System/<br>
 ├── Home.py                 # Main application entry point<br>
 ├── 1_📥_Input.py           # Farm input data collection<br>
 ├── 2_🌱_Suggestions.py     # Crop recommendations display<br>
