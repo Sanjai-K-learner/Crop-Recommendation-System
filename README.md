@@ -37,9 +37,9 @@ A smart farming assistant that provides personalized crop recommendations based 
 ### 🚀 Steps to Run the Project
 
 1. **Clone the Repository**
-     bash
-     git clone https://github.com/yourusername/AgriTech-Advisor.git
-     cd AgriTech-Advisor
+     ```bash
+   git clone https://github.com/Sanjai-K-learner/Crop Recommendation System.git
+   cd Crop Recommendation System
    
 2. **Install Dependencies**
     pip install -r requirements.txt
@@ -53,12 +53,12 @@ A smart farming assistant that provides personalized crop recommendations based 
 ### Project Structure
 
 AgriTech-Advisor/
-├── Home.py                 # Main application entry point
-├── 1_📥_Input.py           # Farm input data collection
-├── 2_🌱_Suggestions.py     # Crop recommendations display
-├── 3_💰_Budget.py          # Budget estimation
-├── Updated_Crop_data.csv   # Dataset for model training
-└── requirements.txt        # Python dependencies
+├── Home.py                 # Main application entry point<br>
+├── 1_📥_Input.py           # Farm input data collection<br>
+├── 2_🌱_Suggestions.py     # Crop recommendations display<br>
+├── 3_💰_Budget.py          # Budget estimation<br>
+├── Updated_Crop_data.csv   # Dataset for model training<br>
+└── requirements.txt        # Python dependencies<br>
 
 
 ## 👨‍💻 Author
